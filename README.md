@@ -20,7 +20,6 @@ This project is a simple Anime web page built using Next.js 14, featuring an inf
 
 1. Clone the repository:
 
-<<<<<<< HEAD
    ```bash
    git clone https://github.com/ShamsadAlam/AnimePage-using-Infinite-Scroller_Server-Actions.git
    ```
@@ -36,23 +35,6 @@ This project is a simple Anime web page built using Next.js 14, featuring an inf
    ```bash
    npm install
    ```
-=======
-    ```bash
-    git clone https://github.com/ShamsadAlam/AnimePage-using-Infinite-Scroller_Server-Actions.git
-    ```
-
-2. Navigate to the project directory:
-
-    ```bash
-    cd AnimePage-using-Infinite-Scroller_Server-Actions
-    ```
-
-3. Install dependencies:
-
-    ```bash
-    npm install
-    ```
->>>>>>> 7cf2a90124b2888092795eeb1df542988abe47f9
 
 ## Usage
 
@@ -60,7 +42,4 @@ To start the development server, run:
 
 ```bash
 npm run dev
-<<<<<<< HEAD
 ```
-=======
->>>>>>> 7cf2a90124b2888092795eeb1df542988abe47f9

@@ -13,24 +13,24 @@ function Footer() {
       />
       <div className="flex items-center gap-6">
         <Image
-          src="./tiktok.svg"
+          src="./linkedIn.svg"
           alt="logo"
-          width={19}
-          height={19}
+          width={30}
+          height={30}
           className="object-contain"
         />
         <Image
           src="./instagram.svg"
           alt="logo"
-          width={19}
-          height={19}
+          width={28}
+          height={28}
           className="object-contain"
         />
         <Image
           src="./twitter.svg"
           alt="logo"
-          width={19}
-          height={19}
+          width={24}
+          height={24}
           className="object-contain"
         />
       </div>
