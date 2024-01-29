@@ -16,9 +16,6 @@ function Hero() {
           Anime Magic
         </h1>
       </div>
-      <div className="lg:flex-1 relative w-full h-[50vh] justify-center">
-        <Image src="/anime.png" alt="anime" fill className="object-contain" />
-      </div>
     </header>
   );
 }

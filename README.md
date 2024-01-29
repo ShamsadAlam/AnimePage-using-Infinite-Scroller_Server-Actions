@@ -1,9 +1,45 @@
-# Build Modern Next 14 Server Side App with Server Actions, Infinite Scroll & Framer Motion Animations
+# Next.js 14 Anime Web Page
 
-![Anime Website](https://i.ibb.co/MG1nbqt/YT-Thumbnails-2.png)
+This project is a simple Anime web page built using Next.js 14, featuring an infinite scroller and server actions.
 
-### [🌟 Become a top 1% Next.js 14 developer in only one course](https://jsmastery.pro/next14)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
-### [📙 Free Three.js Cheatsheet](https://resource.jsmastery.pro/threejs-cheatsheet)
-### [🌐 Best Hosting for Your Websites](https://hostinger.com/javascript10)
+## Table of Contents
 
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Folder Structure](#folder-structure)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+- **Infinite Scroller:** The web page implements an infinite scrolling mechanism to load anime content dynamically.
+- **Server Actions:** Utilizes server actions to improve server-side rendering (SSR) performance.
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/ShamsadAlam/AnimePage-using-Infinite-Scroller_Server-Actions.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd AnimePage-using-Infinite-Scroller_Server-Actions
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+## Usage
+
+To start the development server, run:
+
+```bash
+npm run dev
+```
